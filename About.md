@@ -2,4 +2,4 @@
 A common Computer Science Student.
 
 
-Reading, thinking, running.
+Reading, thinking, running, hacking.
